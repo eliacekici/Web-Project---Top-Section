@@ -87,11 +87,11 @@ body {
     font-size: 2rem;
   }
   .image-grid-section {
-    grid-template-columns: 1fr; /* 1 column for small devices */
+    grid-template-columns: 1fr; 
   }
   .icon-section {
-    text-align: center; /* Center icon section on small devices */
-    margin: 40px 0; /* Adjust margins */
+    text-align: center; 
+    margin: 40px 0; 
   }
 }
 
